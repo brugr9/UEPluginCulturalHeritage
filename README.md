@@ -1,7 +1,7 @@
 # Unreal Engine Plug-in: Cultural Heritage &ndash; README
 
 Plug-in Version: 1.0.0
-<br>Author: Roland Bruggmann
+<br>Author: Roland Bruggmann aka [brugr9](https://www.unrealengine.com/marketplace/en-US/profile/brugr9) (UE Marketplace)
 
 ![Screenshot Scene](Docs/ScreenshotScene.jpg "Screenshot Scene")
 
