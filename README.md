@@ -2,6 +2,7 @@
 
 Plug-in Version: 1.0.0
 <br>Author: Roland Bruggmann aka [brugr9](https://www.unrealengine.com/marketplace/en-US/profile/brugr9) (UE Marketplace)
+<br>Licence: [Creative Commons Attribution 4.0 International (CC BY 4.0)](http://creativecommons.org/licenses/by/4.0/)
 
 ![Screenshot Scene](Docs/ScreenshotScene.jpg "Screenshot Scene")
 
